@@ -1,12 +1,14 @@
-  {
-    "name": "admin",
-    "password": "1103728536"
-  },
-  {
-    "name": "m",
-    "password": "1503889858"
-  },
-  {
-    "name": "344",
-    "password": "507572192"
-  }
+[
+    {
+        "name": "admin",
+        "password": "1103728536"
+    },
+    {
+        "name": "m",
+        "password": "1503889858"
+    },
+    {
+        "name": "344",
+        "password": "507572192"
+    }
+]
