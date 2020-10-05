@@ -18,5 +18,15 @@
         "name": "jump",
         "password": "$2a$12$EbYIXNK6SUzlhWdZsL74E.n.xQBjD1wiqp2/Sq1nIM6Ss9a8n0DyO",
         "hwid": "MTEyNzcxMjM3Mjc4MjE2MDAxMTI3NzEyMzcyNzgyMTYwMDExMjc3MTIzNzI3ODIxNjAwMTEyNzcxMjM3Mjc4MjE2MDAxMTI3NzEyMzcyNzgyMTYwMDEzODk1MjQxODIxMzg5NTI0MTgyMTM4OTUyNDE4MjEzODk1MjQxODIxMzg5NTI0MTgyMTc3ODQ0MDg0ODE3Nzg0NDA4NDgxNzc4NDQwODQ4MTc3ODQ0MDg0ODE3Nzg0NDA4NDgwMDAwMDA="
+    },
+    {
+        "name": "kim",
+        "password": "$2a$10$oCN.7zFjl6sev2F3dbw9wOv14Qy0fk7TOJrW.4csWb8ea3KOMaEEu",
+        "hwid": ""
+    },
+    {
+        "name": "kainy",
+        "password": "$2a$10$oF9.iE8ud/yCXT/WkoVfJe.cswNiIQSUnlRNPpdevxXAY5tOXZ8K.",
+        "hwid": ""
     }
 ]
