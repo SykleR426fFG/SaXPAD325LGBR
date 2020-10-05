@@ -38,5 +38,10 @@
     "name": "griffin",
     "password": "$2a$12$PhZaiZuNLqpP/SyQaLmMquccSzN4.nUc4JdMXqfOGm59lRCj9H3Ae",
     "hwid": ""
+  },
+  {
+    "name": "endless",
+    "password": "$2a$12$ez6a3BZv7QGcU0WF88vYGO9UJwM4nSlngYvr/ZCIxZjciEUxLz3py",
+    "hwid": ""
   }
 ]
