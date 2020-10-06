@@ -43,5 +43,15 @@
     "name": "endless",
     "password": "$2a$12$ez6a3BZv7QGcU0WF88vYGO9UJwM4nSlngYvr/ZCIxZjciEUxLz3py",
     "hwid": ""
+  },
+  {
+    "name": "speed";
+    "password": "$2a$12$SCA8ip7vP2CdW.8g2nYaieSUuUJ7huvFmqjiBjTDSmvoXs8ByqPQG",
+    "hwid": ""
+  },
+  {
+    "name": "Avatar",
+    "password": "$2a$12$4ZtC/IG6GlxyqlLf25veSOtE.V6QR7GQ0FdQc9mTQ8xgRtYG2ZQne",
+    "hwid": ""
   }
 ]
