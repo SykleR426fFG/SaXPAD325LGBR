@@ -63,5 +63,10 @@
     "name": "akiy",
     "password": "$2a$12$s2B8dA1bK1MHsD66GuNALeuvkCOdTM4zuBRvoV/EWS0NGPMxUnytG",
     "hwid": ""
+  },
+  {
+    "name": "rasmus",
+    "password": "$2a$12$j4xx4R10PXZft.kZiVl8V.0W/R7wWv6FyfNW4v14QVUqGKJe1AvTq",
+    "hwid": ""
   }
 ]
