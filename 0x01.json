@@ -53,5 +53,15 @@
     "name": "Avatar",
     "password": "$2a$12$4ZtC/IG6GlxyqlLf25veSOtE.V6QR7GQ0FdQc9mTQ8xgRtYG2ZQne",
     "hwid": ""
+  },
+  {
+    "name": "avril",
+    "password": "$2a$12$DbREcTg7FSW72fN9orfVnO8TxbsdmDbBGbGHoLlNSH/b.Hpx5rSm6",
+    "hwid": ""
+  },
+  {
+    "name": "akiy",
+    "password": "$2a$12$s2B8dA1bK1MHsD66GuNALeuvkCOdTM4zuBRvoV/EWS0NGPMxUnytG",
+    "hwid": ""
   }
 ]
